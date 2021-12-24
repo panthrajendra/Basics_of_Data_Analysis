@@ -18,6 +18,10 @@ R is a basic and robust programming language for data analysis.
 Using built in functions
 
 - Histogram `hist(data$var)`
+  
+  The box plot should be like
+  !["The box plot should be like"]('/../Rplot.png)
+
 - Scatter plot
 - Piechat
   
